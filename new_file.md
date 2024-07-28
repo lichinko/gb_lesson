@@ -12,8 +12,7 @@
 * 5. git commit
 * 6. git checkout
 * 7. git log
-
-* Заключение
+* 8. Команды для работы с GitHub
 
 ## **Что такое контроль версий**?
 ![Git](https://rwsite.ru/wp-content/uploads/2024/02/image-1.png)
@@ -132,6 +131,40 @@
 
 восстановить удаленный файл
 
+# Команды для Github
+![Изображение](https://is-systems.org/shared/lib_imgs/mod_newsblock/news_article/7a11b15001daa6fcede679482fadea384e8be430a01aa434f22a2de7a78a605d.jpg)
+
+### **Git config --global user_name**
+
+*git config --global user*
+
+написать имя автора сея творения и коммита
+
+### **Git config --global user_email**
+
+*git config --global user_email*
+
+почта автора сея творения и коммита
+
+### **Git clone**
+
+*git clone git@github.com:alza58/taro.loc.git*
+
+копировать репозиторий по ссылке
+
+### **Git pull**
+
+*git pull*
+
+отправить данные из удаленного репозитория и сделать слияние с локальным
+
+### **Git push**
+
+*git push*
+
+отправить изменения в удаленный репозиторий
+
+Вывод: Git и GitHub очень полезны для больших/средних/малых компаний. Они позволяют вести совместную разработку проектов.
 
 
 
