@@ -40,3 +40,15 @@ This is a text information about a project describing the functionality and oper
 |-------|----------|--------|
 | 300$  | 12       | yes    |
 | 79$   | 45       | no     |
+
+# How to work with Git repositories
+
+- `git pull` - Fetches and merges changes from the remote repository to your local branch.
+
+- `git push` - Uploads your local changes to the remote repository.
+
+- `git clone <URL>` - Creates a local copy of a remote repository.
+
+- `git remote add origin <URL>` - Adds a new remote repository.
+
+- `git fetch origin` - Downloads objects and refs from another repository.
